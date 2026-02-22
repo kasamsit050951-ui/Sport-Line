@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Sport Line",
+  "description": "A sports matchmaking application with a Google Maps-inspired interface to find partners and organize matches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
